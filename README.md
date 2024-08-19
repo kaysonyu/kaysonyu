@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SS-Yuki)
 
-# Blog posts
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [将光猫设置为桥接](https://ss-yuki.github.io/2024/08/Modem-and-Router/)
 - [Ubuntu安装记录](https://ss-yuki.github.io/2024/08/install-Ubuntu/)
