@@ -3,6 +3,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Github Pages + Hexo 搭建个人博客](https://ss-yuki.github.io/2024/08/build-blog-by-Hexo/)
 - [将光猫设置为桥接](https://ss-yuki.github.io/2024/08/Modem-and-Router/)
 - [Ubuntu安装记录](https://ss-yuki.github.io/2024/08/install-Ubuntu/)
 - [Ubuntu包管理](https://ss-yuki.github.io/2024/08/package-management/)
