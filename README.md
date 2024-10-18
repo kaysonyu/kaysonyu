@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I am @kaysonyu(Kang Yu)
+- 🌱 I’m currently learning On-Device AI and FPGA-based accelerator
+- 📫 How to reach me: kangy.me@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysonyu)
 
 📕 &nbsp;**Latest Blog Posts**
