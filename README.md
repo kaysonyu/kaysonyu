@@ -6,11 +6,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [vscode插件配置](https://kaysonyu.github.io/2024/11/VSCode-Extension/)
 - [MSVC，GCC，Clang——不同C/C++编译器对比](https://kaysonyu.github.io/2024/10/MSVC-GCC-Clang/)
 - [开源贡献的一些规范](https://kaysonyu.github.io/2024/09/Open-Source/)
 - [Github Pages + Hexo 搭建个人博客](https://kaysonyu.github.io/2024/08/build-blog-by-Hexo/)
 - [将光猫设置为桥接](https://kaysonyu.github.io/2024/08/Modem-and-Router/)
-- [Ubuntu安装记录](https://kaysonyu.github.io/2024/08/install-Ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
