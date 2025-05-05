@@ -7,10 +7,10 @@
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [C/C++ 模板元编程学习](https://kaysonyu.github.io/2025/01/TemplateMetaprogramming/)
-- [CUDA 软件栈](https://kaysonyu.github.io/2024/12/DL-Env-Conf/)
+- [Ubuntu包管理](https://kaysonyu.github.io/2025/01/Ubuntu-package-management/)
 - [C/C++编译知识](https://kaysonyu.github.io/2024/12/C_CXX_Compiler/)
+- [如何使用 CMake](https://kaysonyu.github.io/2024/12/How_to_use_CMake/)
 - [vscode插件配置](https://kaysonyu.github.io/2024/11/VSCode-Extension/)
-- [MSVC，GCC，Clang——不同C/C++编译器对比](https://kaysonyu.github.io/2024/10/MSVC-GCC-Clang/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
