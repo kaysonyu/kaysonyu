@@ -3,7 +3,7 @@
 - 🎓 M.S. student at Fudan University (2024), SII (2026)
 - 📫 How to reach me: kangy.me@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysonyu)
+![Anurag's GitHub stats](https://github-readme-stats-silk-five-ixgm4yziio.vercel.app/api?username=kaysonyu)
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
