@@ -1,5 +1,5 @@
 - 👋 Hi, I am @kaysonyu (Kang Yu)
-- 🧠 I work on AI Infra, including distributed training and kernel development
+- 🧠 I work on AI Infra/RL
 - 🎓 M.S. student at Fudan University (2024), SII (2026)
 - 📫 How to reach me: kangy.me@gmail.com
 
